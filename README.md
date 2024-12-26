@@ -33,22 +33,38 @@ Here are some ideas to get you started:
 
 <!-- About -->
  ## About
-- 🎓 I am a 2024 graduate from NIT-Hamirpur.
-- 🌱 I'm a *Full Stack Developper* 
-- 🤝 I’m looking to collaborate on *opensource projects*
+- 👨🏽‍💻 SDE1 at Gocnet LLP. Working on Democratising internet commerce.
+- 👨‍🏫 BTech Graduate from National Institute Of Technology , Hamirpur
+- 👨🏽‍💻 Interested in Competitive Programming, Software Development.
+- 🌱 I’m currently exploring Rust.
+- 💬 Ask me about Software Development, System Design. I'd love to answer!
+- 📫 Email me at rajs191201@gmail.com
 <!-- End of About -->
   
 <br>
 
-<!-- Languages -->
-<h3 align="left">Languages :</h3>
+<!-- Skills -->
+<hr/>
+<h3>📌&nbsp&nbspTechnologies I've used & 🤹 Skills I've acquired </h3>
+<br>
 
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!-- End of Languages -->
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="">  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt=""> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt=""> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt=""> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt=""> 
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="">
+
+<img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" alt=""> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=""> 
+
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt=""> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt=""> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="">
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt=""> 
+
+<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="">
+<!-- End of Skills -->
 
 
 <!--  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
@@ -71,6 +87,14 @@ Here are some ideas to get you started:
 
 <hr>
 
+ <h3>📌&nbsp&nbspFind me on</h3>
+ <br>
+<p>
+  <a href="https://www.linkedin.com/in/prakhar-veer-singh-18286721b/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
+  </a>
+
+<hr>
 <!-- Thank You -->
 <h1 align="center">THANK YOU FOR VISITING !!!</h1>
 <!-- End of Thank You -->
